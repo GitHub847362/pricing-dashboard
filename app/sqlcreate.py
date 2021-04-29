@@ -31,4 +31,4 @@ def create_database(connection, query):
 
 create_database_query = "CREATE DATABASE stock_prices"
 create_database(connection,create_database_query)
-
+#test commit WS
